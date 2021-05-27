@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc754176-d544-4758-bbd4-454921fffca6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart_app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart_app/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart_app/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart_app/context_processors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart_app/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart_app/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart_app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart_app/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart_app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart_app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerceapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerceapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerceapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerceapp/context_processors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerceapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerceapp/migrations/0002_rename_availabe_product_available.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerceapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerceapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerceapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerceapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerceapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/category/about_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/category/about_1_mnsfUFj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/category/elec.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/category/elec2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/category/fas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/category/latest_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/category/veg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/category/veg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/category/why_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/beans.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/beetroot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/cabbbage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/carrot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/destination_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/dreaa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/fridge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/latest_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/onion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/pant.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/phone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/springon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/team_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/team_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/tomato.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/product/tv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_app/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_app/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_app/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_app/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_app/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/logo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/logo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/logo5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/search.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sSzfG6NCHBcNvgWNZ1osWj7jzi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/demo/demoproject/project/project" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc754176-d544-4758-bbd4-454921fffca6" name="Default Changelist" comment="" />
+      <created>1620880879249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620880879249</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
